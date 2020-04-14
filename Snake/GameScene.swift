@@ -100,3 +100,4 @@ extension GameScene: SKPhysicsContactDelegate {
         }
     }
 }
+//на проверку
